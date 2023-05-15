@@ -7,7 +7,7 @@ to make more informed decision to improve the general quality of life for the ci
 accomplishing the task already, from manually counting to special censors (and many other alternatives), developing
 smart systems to automatically count in real time can be incredibly useful and save much time and effort.
 
-## CLI: Object Detection + Tracking + Vehicle Counting
+## CLI: Object Detection + Tracking + Vehicle Counting + Speed Estimation
 
 ```
 python predict.py model='name_of_your_model.pt' source='name_of_your_input_file.mp4' show=True
