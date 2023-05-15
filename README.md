@@ -1,4 +1,4 @@
-<H1 align="center">Vehicle counting system with YOLOv8 and DeepSORT</H1>
+<H1 align="center">Vehicle counting system with Speed Estimation using YOLOv8 and DeepSORT</H1>
 
 Vehicle counting provides critical information to traffic analysis problems
 (like monitoring flow, peaks/jams, etc.) and other related traffic issues like highway management.
@@ -6,7 +6,6 @@ Having an good and accurate understanding of traffic flow can help for urban pla
 to make more informed decision to improve the general quality of life for the citizens. While there already exist numerous methods to
 accomplishing the task already, from manually counting to special censors (and many other alternatives), developing
 smart systems to automatically count in real time can be incredibly useful and save much time and effort.
-For this purpose, a Vehicle counting system with YOLOv8 and DeepSORT
 
 ## CLI: Object Detection + Tracking + Vehicle Counting
 
@@ -45,4 +44,4 @@ https://github.com/ultralytics/assets/releases/download/v0.0.0/yolov8l.pt
 
 ### RESULTS
 
-#### Object Detection + Tracking + Vehicle Counting
+#### Object Detection + Tracking + Vehicle Counting + Speed Estimation
