@@ -46,3 +46,7 @@ https://github.com/ultralytics/assets/releases/download/v0.0.0/yolov8l.pt
 ### RESULTS
 
 #### Object Detection + Tracking + Vehicle Counting
+
+https://github.com/SiddharthUchil/Vehicle_Counting_YOLOv8_DeepSORT/assets/36127139/b4b724a5-d3e8-470f-84f8-2ad470e82ca0
+
+
