@@ -1,4 +1,4 @@
-<H1 align="center">Vehicle counting system with Speed Estimation using YOLOv8 and DeepSORT</H1>
+# Vehicle counting system with Speed Estimation using YOLOv8 and DeepSORT
 
 Vehicle counting provides critical information to traffic analysis problems
 (like monitoring flow, peaks/jams, etc.) and other related traffic issues like highway management.
